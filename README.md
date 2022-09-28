@@ -18,4 +18,4 @@ We need to cover those languages and tools:
  - C# with NUnit
 
 ## Resources
-This is the [Notion page](https://ulimoralez.notion.site/Zebrunner-Implementations-Resources-88a0b5e2caba42a581443d7cc72d05b1) with the global resources.
+This is the [Notion page](https://ulimoralez.notion.site/Zebrunner-Agent-Resources-23a6242e0d1040ad8455821d8af31032) with the global resources.
